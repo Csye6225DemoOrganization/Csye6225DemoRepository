@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## Command to execute this script
 ## gitACP.sh <branch name> <comment for commit>
 
