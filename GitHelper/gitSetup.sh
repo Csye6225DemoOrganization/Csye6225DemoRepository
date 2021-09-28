@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This setup should be executed after forking Organization repo to your account.
 
 # Make sure to run this command to check current status of repo after running the setup.
